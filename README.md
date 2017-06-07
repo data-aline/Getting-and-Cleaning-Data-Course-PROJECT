@@ -8,5 +8,4 @@ This is the course project for the Getting and Cleaning Data Coursera course. Th
    
    
    As result you have 2 dataframes:
-   all_data
-   tidy_data
+   "all_data" &  "tidy_data"
